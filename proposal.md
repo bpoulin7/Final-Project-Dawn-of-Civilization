@@ -9,7 +9,7 @@ This will be a successor to the same coding project worked on all semester: a te
  - a pre-determined map loosely representative of the real world ca. 1500 BCE
    - consists of city tiles, desert tiles, mountain tiles, and sea tiles
    - cities belong to certain empires, whose allegiances are important
-   - player gets to choose starting location (thus allegiance)
+   - player gets to choose starting location
    - traversing mountains and deserts is very difficult
    - scope at least from the Levant (W) to the Caucasus (N) to Persia (E) to Arabia (S)
  - various objects to be found across the map
@@ -26,14 +26,18 @@ This will be a successor to the same coding project worked on all semester: a te
 ## Nice-to-Have
 
  - map scope including some or all of Egypt, Anatolia, Bactria, and/or India
-   - if the Mediterranean is included, boat travel?
- - a minimap that updates with the player's location
- - a dynamic environment:
+   - if the Mediterranean is included, maybe boat travel?
+ - minimap updates with the player's location
+ - dynamic environment:
    - empires sometimes form/break alliances/rivalries
    - cities sometimes change hands (perhaps when conquered by the player?)
    - empires' rulers sometimes change (basically just cosmetic)
- - a trading mechanic
+ - trading mechanic
 
 ## Similar Programs
 
+
+
 ## Target User
+
+Intended for fans of ancient history, grand strategy games, and role-playing games.
