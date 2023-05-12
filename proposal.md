@@ -36,7 +36,7 @@ This will be a successor to the same coding project worked on all semester: a Py
 
 ## Similar Programs
 
-A quick search was unable to reveal any programs with a scope similar to this one, although there are countless text-based adventure games with similar code.
+A quick search was unable to reveal any programs with a scope similar to this one, although there are countless text-based adventure games with similar code, including examples and work from this class.
 
 ## Target User
 
