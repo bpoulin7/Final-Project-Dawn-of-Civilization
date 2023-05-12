@@ -2,7 +2,7 @@
 
 ## Premise
 
-This will be a successor to the same coding project worked on all semester: a text-based game set in the Ancient Near East, with a few main changes. The scope of the map will be at least as much as previous iterations, potentially broader if feasible. Rather than a set start tile and victory tile, the player will be able select a starting location, and the game will end naturally after a certain amount of in-game time ("turns") if the player makes it that long. The player's goal will be to collect as much gold and "prestige" as possible, travelling around the map and finding loot, enemies, obstacles, and allies. Random events will also occur to help or hinder the player's progress. This will be a solo project.
+This will be a successor to the same coding project worked on all semester: a Python text-based adventure game set in the Ancient Near East, with a few main changes. The scope of the map will be at least as much as previous iterations, potentially broader if feasible. Rather than a set start tile and victory tile, the player will be able select a starting location, and the game will end naturally after a certain amount of in-game time ("turns") if the player makes it that long. The player's goal will be to collect as much gold and "prestige" as possible, travelling around the map and finding loot, enemies, obstacles, and allies. Random events will also occur to help or hinder the player's progress. This will be a solo project.
 
 ## Must-Have
 
