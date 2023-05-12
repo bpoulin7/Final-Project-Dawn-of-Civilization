@@ -4,8 +4,8 @@ MAIN FILE:
 ```
 print intro text  
 pick start location:  
-start location = input  
-	player coordinates = input coordinates  
+	start location = input  
+		player coordinates = input coordinates  
 game loop:  
 	options menu:  
 		list options (move n/s/e/w, open map/inventory, fight, quit, etc.)  
